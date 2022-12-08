@@ -18,7 +18,7 @@ import FlagOutlinedIcon from "@mui/icons-material/FlagOutlined";
 import HelpOutlineOutlinedIcon from "@mui/icons-material/HelpOutlineOutlined";
 import SettingsBrightnessOutlinedIcon from "@mui/icons-material/SettingsBrightnessOutlined";
 import { Link } from "react-router-dom";
-import { color } from "@mui/system";
+
 
 const Container = styled.div`
   flex: 1;
@@ -86,7 +86,7 @@ const Menu = ({ darkMode, setDarkMode }) => {
         <Link to="/" style={{ textDecoration: "none", color: "inherit" }}>
           <Logo>
             <Img src={LamaTube} />
-            LamaTükürük
+            Mtube
           </Logo>
         </Link>
         <Link to="/" style={{ textDecoration: "none" , color:"inherit" }}>

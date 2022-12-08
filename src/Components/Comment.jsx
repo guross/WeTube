@@ -30,23 +30,21 @@ const Date = styled.span`
   margin-left: 5px;
 `;
 const Text = styled.span`
-font-size:14px;
+  font-size: 14px;
 `;
 
 const Comment = () => {
   return (
     <Container>
-      <Avatar src="https://pbs.twimg.com/profile_images/1581036155709030406/xGvgWTLO_400x400.jpg" />
+      <Avatar src="https://images.unsplash.com/photo-1533738363-b7f9aef128ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80" />
       <Details>
         <Name>
-          Bahadir Alacucuk <Date>1 day ago</Date>
+          Test Comment <Date>1 day ago</Date>
         </Name>
         <Text>
-          Merhaba ben bahadır ben bir malım. Merhaba ben bahadır ben bir malım.
-          Merhaba ben bahadır ben bir malım. Merhaba ben bahadır ben bir malım.
-          Merhaba ben bahadır ben bir malım. Merhaba ben bahadır ben bir malım.
-          Merhaba ben bahadır ben bir malım. Merhaba ben bahadır ben bir malım.
-          Merhaba ben bahadır ben bir malım.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum vitae
+          ea iusto impedit repudiandae placeat necessitatibus, sit cumque sequi
+          incidunt!
         </Text>
       </Details>
     </Container>

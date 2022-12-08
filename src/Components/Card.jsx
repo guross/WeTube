@@ -51,16 +51,16 @@ const Card = ({ type }) => {
       <Container type={type}>
         <Image
           type={type}
-          src="https://scontent.fist7-2.fna.fbcdn.net/v/t39.30808-6/244355011_10159360044789590_8037407231006153260_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=UHtbdC7lyDYAX904DOc&_nc_ht=scontent.fist7-2.fna&oh=00_AT8R9GcyVOUJ9DWA07Z8S4vOhhkLhHs-eyS4QdzT7hSQOA&oe=635C769C"
+          src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80"
         />
         <Details type={type}>
           <ChannelImage
             type={type}
-            src="https://media-exp1.licdn.com/dms/image/C5603AQFw3vb2TkzRhA/profile-displayphoto-shrink_200_200/0/1624743422270?e=2147483647&v=beta&t=nNsfiQgBigNAdLp8oWMGokIOKPb3ckq5yG_aJP8_KvM"
+            src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80"
           />
           <Texts>
-            <Title>Yarışmalarımı Nasıl Kazanıyorum</Title>
-            <ChannelName>Cengizhan Köse Dünya Birincisi</ChannelName>
+            <Title>Test Video</Title>
+            <ChannelName>Test User</ChannelName>
             <Info>660,369 views | 666 day ago</Info>
           </Texts>
         </Details>

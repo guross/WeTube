@@ -5,9 +5,9 @@ import Comment from "./Comment";
 const Container = styled.div``;
 
 const NewComment = styled.div`
-display:flex;
-align-item:center;
-gap:10px;
+  display: flex;
+  align-item: center;
+  gap: 10px;
 `;
 
 const Avatar = styled.img`
@@ -17,32 +17,32 @@ const Avatar = styled.img`
 `;
 
 const Input = styled.input`
-border:none;
-border-bottom: 1px solid ${({theme})=> theme.soft};
-background-color: transparent;
-outline:none;
-padding: 5px;
-width:100%
+  border: none;
+  border-bottom: 1px solid ${({ theme }) => theme.soft};
+  background-color: transparent;
+  outline: none;
+  padding: 5px;
+  width: 100%;
 `;
 
 const Comments = () => {
   return (
     <Container>
       <NewComment>
-        <Avatar src="https://pbs.twimg.com/profile_images/1581036155709030406/xGvgWTLO_400x400.jpg" />
+        <Avatar src="https://images.unsplash.com/photo-1533738363-b7f9aef128ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80" />
         <Input placeholder="Add a Comment..." />
       </NewComment>
-      <Comment/>
-      <Comment/>
-      <Comment/>
-      <Comment/>
-      <Comment/>
-      <Comment/>
-      <Comment/>
-      <Comment/>
-      <Comment/>
-      <Comment/>
-      <Comment/>
+      <Comment />
+      <Comment />
+      <Comment />
+      <Comment />
+      <Comment />
+      <Comment />
+      <Comment />
+      <Comment />
+      <Comment />
+      <Comment />
+      <Comment />
     </Container>
   );
 };

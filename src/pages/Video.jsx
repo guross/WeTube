@@ -117,7 +117,7 @@ const Video = () => {
             allowFullScreen
           ></iframe>
         </VideoWrapper>
-        <Title>Yarışmalarımı Nasıl Kazanıyorum</Title>
+        <Title>TEst Video</Title>
         <Details>
           <Info>660,369 views | 666 day ago</Info>
           <Buttons>
@@ -142,9 +142,9 @@ const Video = () => {
         <Hr />
         <Channel>
           <ChannelInfo>
-            <Image src="https://media-exp1.licdn.com/dms/image/C5603AQFw3vb2TkzRhA/profile-displayphoto-shrink_200_200/0/1624743422270?e=2147483647&v=beta&t=nNsfiQgBigNAdLp8oWMGokIOKPb3ckq5yG_aJP8_KvM" />
+            <Image src="https://images.unsplash.com/photo-1533738363-b7f9aef128ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80" />
             <ChannelDetail>
-              <ChannelName>Cengizhan Köse Dünya Birincisi</ChannelName>
+              <ChannelName>Test User</ChannelName>
               <ChannelCounter>31 subscribers</ChannelCounter>
               <Description>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam
