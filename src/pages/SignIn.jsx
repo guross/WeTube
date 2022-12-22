@@ -66,7 +66,7 @@ const Signin = () => {
     <Container>
       <Wrapper>
         <Title>Sign in</Title>
-        <SubTitle>to continue tu LamaTükürük</SubTitle>
+        <SubTitle>to continue to MTube </SubTitle>
         <Input placeholder="username" />
         <Input type="password" placeholder="password" />
         <Button>Sign in</Button>
