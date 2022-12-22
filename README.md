@@ -8,10 +8,10 @@
 - The app will launch on your default browser.
 
 ## Dependencies
--JavaScript
--React
--ReactRouter
--Styled Components
+-JavaScript<br/>
+-React<br/>
+-ReactRouter<br/>
+-Styled Components<br/>
 -Material UI
 
 ## Photos
